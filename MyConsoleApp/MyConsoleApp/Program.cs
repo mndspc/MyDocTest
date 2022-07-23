@@ -14,7 +14,7 @@ namespace MyConsoleApp
             num1 = 30;
             num2 = 40;
             sum=num1 + num2;
-            Console.WriteLine(sum);
+            Console.WriteLine(sum)
             
 
         }
