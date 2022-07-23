@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\Lenovo\source\repos\MyDocTest\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
