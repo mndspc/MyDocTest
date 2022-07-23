@@ -10,8 +10,13 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.WriteLine("hi");
+            int num1, num2, sum;
+            num1 = 30;
+            num2 = 40;
+            sum=num1 + num2;
+            Console.WriteLine(sum);
+            
+
         }
     }
 }
